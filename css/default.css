@@ -1,6 +1,6 @@
 body{
     font-size: 30; /*Ejemplo error de sintaxis*/
-    color: #0F0F0F;
+    color: #00FFFF;
 }
 
 h1,h2,h3,h4,h5, /*Error de sintaxis*/
