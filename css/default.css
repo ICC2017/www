@@ -1,13 +1,13 @@
 body{
-    font-size: 16; /*Ejemplo error de sintaxis*/
-    color: #000000;
+    font-size: 30; /*Ejemplo error de sintaxis*/
+    color: #0F0F0F;
 }
 
 h1,h2,h3,h4,h5, /*Error de sintaxis*/
 {
     font-weight: bold;
     text-align: center;
-    color: #333333;
+    color: #3F3033;
 }
 
 p{
